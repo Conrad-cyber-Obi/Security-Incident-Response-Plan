@@ -2,4 +2,4 @@
 
 #Correct way to implement a SIRP
 
-#It is an rtf. file
+#The file is an .rtf
